@@ -7,4 +7,4 @@ Vücut kitle endeks hesaplama scripti php ile kodlanmıştır... Tamamen Ücrets
 26. Ve actığınız veritabanına veri.sql i import ediniz...
 
 ##Ekran Görüntüsü
-[Vucut-Kitle-Endeks](https://github.com/muhammedzaimtr/Vucut-Kitle-Endeks/blob/master/ss.png)
+![Vucut-Kitle-Endeks](https://github.com/muhammedzaimtr/Vucut-Kitle-Endeks/blob/master/ss.png)
